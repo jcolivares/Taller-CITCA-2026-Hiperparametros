@@ -3,3 +3,6 @@
 __pycache__/
 *.pyc
 .venv/
+modelos/SVM.joblib
+modelos/FashionMNIST_baselines.zip
+modelos/Random_Forest.joblib
